@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABAP", "ABAP\ABAP.csproj", "{B8F2C1CC-AB18-4847-A151-37806DB344EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8F2C1CC-AB18-4847-A151-37806DB344EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8F2C1CC-AB18-4847-A151-37806DB344EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8F2C1CC-AB18-4847-A151-37806DB344EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8F2C1CC-AB18-4847-A151-37806DB344EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {793C8499-82B0-4813-88FB-4D68BD707503}
+	EndGlobalSection
+EndGlobal
